@@ -30,7 +30,7 @@ I planned it according to our future use.
 Hello everyone, i'm Varun Goud, studying in Northwest Missouri State University, pursuing my masters in MS-Applied Computer Science.
 
 
-![niagara falls](https://travel.usnews.com/static-travel/images/destinations/92/niagara_falls_getty_main.jpg)
+![niagara falls](https://selectregistry.com/wp-content/uploads/2018/08/niagara-falls.jpg)
 
 
 
