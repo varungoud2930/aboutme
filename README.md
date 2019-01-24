@@ -2,10 +2,9 @@
 
 ## Repository Links
 
-[webpage](https://github.com/varungoud2930/aboutme/new/master)
+[webpage](https://github.com/varungoud2930/aboutme/edit/master/README.md)
 
 
 ## about
 
-This repository is used to display my work and showcase 
-to evaluate my work for the future developers
+This repository is About me and 
