@@ -19,9 +19,9 @@ I planned it according to our future use.
 
 ## Recommended Resources 
 
-[To create a Repo in GitHub](https://help.github.com/articles/create-a-repo/)
+[To create a Repo in GitHub](https://help.github.com/articles/create-a-repo/): It is very helpful to improve our coding skills.
 
-[create a patch in tortoisegit](https://tortoisegit.org/docs/tortoisegit/tgit-dug-patch.html)
+[tortoisegit with GitHub](https://dbanck.svbtle.com/github-windows-and-tortoisegit-part-1-installing-pulling):It will explain how to use a github repository in windows using TortoiseGit.
 
 [procedure to Install git and GitHub](https://www.youtube.com/watch?v=J_Clau1bYco)
 
