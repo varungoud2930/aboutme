@@ -29,7 +29,7 @@ I planned it according to our future use.
 
 Hello everyone, i'm Varun Goud, studying in Northwest Missouri State University, pursuing my masters in MS-Applied Computer Science.
 
-![Main building of NWMSU](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/learn-teach/sos-images/partners/top-image/northwestmissouri-top_2x/2272565-1-eng-US/northwestmissouri-top_2x.jpg)
+![niagara falls](https://travel.usnews.com/static-travel/images/destinations/92/niagara_falls_getty_main.jpg)
 
 
 
