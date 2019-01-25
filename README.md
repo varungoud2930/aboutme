@@ -1,4 +1,4 @@
-## aboutme
+## Aboutme
 
 ## Repository Links
 
@@ -6,7 +6,7 @@
 
 [source](https://github.com/varungoud2930/aboutme/blob/master/README.md)
 
-## about
+## About
 
 This repository is to develop GitHub which is used in web applications. 
 I planned it according to our future use.
