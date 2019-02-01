@@ -2,7 +2,7 @@
 
 ## Repository Links
 
-[webpage](https://varungoud2930.github.io/aboutme/)
+[webpage](https://github.com/varungoud2930/aboutme/blob/master/README.md)
 
 [source](https://github.com/varungoud2930/aboutme)
 
