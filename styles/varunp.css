@@ -1,0 +1,77 @@
+body{
+    background-repeat:no-repeat;
+    background-size:100%;   
+
+}
+
+header{
+    color: white;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    background-color:chocolate;
+}
+
+.row{
+    border: 0;
+    border-radius: 20px;
+    margin-top: 1em;
+}
+
+section{
+    border-style: solid;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 20px;
+    border-color:brown;
+    background-color:lightgoldenrodyellow;
+} 
+
+table, th, td {
+    border: 1px groove black;
+  }
+
+
+  aside{
+
+  }
+
+  #image_1{
+    padding: 2em;
+    margin: 1em;    
+}
+#imgshape{
+    border-radius: 50%;
+}
+
+footer{
+    color: white;
+}
+
+#ft{
+    color:whitesmoke;
+}
+
+.form1{
+    background-color:lightgrey;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-top: 4em;
+}
+input,textarea{
+    width: 100%;
+    padding: 1em;
+    border-style: solid;
+    border-color:darkgrey;
+}
+
+#submit{
+    width:10%;
+    padding: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background: green;
+    color:white;
+    border-radius: 10px;
+}
