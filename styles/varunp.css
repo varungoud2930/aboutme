@@ -12,6 +12,21 @@ header{
     background-color:chocolate;
 }
 
+p#result {
+    /* background: #fff; */
+    color: #fff;
+}
+
+.parent_class {
+display: block;
+}
+
+.key {display: inline-block;color: #fff;}
+
+p#result {
+display: inline-block;
+}
+
 .row{
     border: 0;
     border-radius: 20px;

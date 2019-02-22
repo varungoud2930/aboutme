@@ -7,9 +7,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
         crossorigin="anonymous">
     <link rel="stylesheet" href="./styles/varunp.css">
+    <style>
+        
+    </style>
 </head>
 
-<body background="tree.jpg">
+<body background="WhatsApp Image 2019-02-21 at 8.48.18 PM (1).jpeg">
 
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="#">Varun</a>
@@ -47,6 +50,64 @@
         function LengthConverter(valNum) {
             document.getElementById("outputFeet").innerHTML = valNum * 0.083333;
         }
+    </script>
+    <br>
+    <br><br>
+
+    <label>
+        <p style="color:orange"> Enter the First Number</p>
+
+
+        </style>
+    </label>
+
+
+    <input id="fnum" type="number" placeholder="Give your first number">
+    <label>
+        <p style="color:white"> Enter the Second Number</p>
+
+
+        </style>
+    </label>
+
+
+    <input id="snum" type="number" placeholder="Give your second number">
+    <label>
+        <p style="color:forestgreen"> Enter the Third Number</p>
+
+ 
+        </style>
+    </label>
+
+
+    <input id="tnum" type="number" placeholder="Give your third number">
+    <button id="submit" onclick="sum()" value="submit">submit</button>
+    <div class="parent_class">
+        <div class="key">Result : </div>
+        <p id="result"></p>
+    </div>
+    
+    }
+    
+        <script type="text/javascript">
+
+function sum()
+{
+
+
+var w = document.getElementById('fnum').value;
+
+var x = document.getElementById('snum').value;
+
+var y = document.getElementById('tnum').value;
+
+var z= parseInt(w)+parseInt(x)+parseInt(y);
+
+
+document.getElementById('result').innerHTML = z;
+
+}       
+</script>
     </script>
 
 
