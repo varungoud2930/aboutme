@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -8,11 +9,11 @@
         crossorigin="anonymous">
     <link rel="stylesheet" href="./styles/varunp.css">
     <style>
-        
+
     </style>
 </head>
 
-<body background="WhatsApp Image 2019-02-21 at 8.48.18 PM (1).jpeg">
+<body background="horizons.jpeg">
 
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="#">Varun</a>
@@ -31,6 +32,7 @@
                 <li class="nav-item active">
                     <a class="nav-link " href="conversion.html">Conversion</a>
                 </li>
+
             </ul>
             <form class="form-inline mt-2 mt-md-0">
                 <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
@@ -39,7 +41,7 @@
         </div>
     </nav>
     <header id="cf">
-        <h4 id="contact" align="left">Conversion from Inches to Feet</h4>
+        <h4 id="contact" style="text-align: left">Conversion from Inches to Feet</h4>
     </header>
     <p>
         <label>Inches</label>
@@ -58,7 +60,7 @@
         <p style="color:orange"> Enter the First Number</p>
 
 
-        </style>
+        
     </label>
 
 
@@ -67,7 +69,7 @@
         <p style="color:white"> Enter the Second Number</p>
 
 
-        </style>
+        
     </label>
 
 
@@ -75,8 +77,8 @@
     <label>
         <p style="color:forestgreen"> Enter the Third Number</p>
 
- 
-        </style>
+
+        
     </label>
 
 
@@ -86,28 +88,26 @@
         <div class="key">Result : </div>
         <p id="result"></p>
     </div>
-    
+
     }
-    
-        <script type="text/javascript">
 
-function sum()
-{
+    <script type="text/javascript">
 
-
-var w = document.getElementById('fnum').value;
-
-var x = document.getElementById('snum').value;
-
-var y = document.getElementById('tnum').value;
-
-var z= parseInt(w)+parseInt(x)+parseInt(y);
+        function sum() {
 
 
-document.getElementById('result').innerHTML = z;
+            var w = document.getElementById('fnum').value;
 
-}       
-</script>
+            var x = document.getElementById('snum').value;
+
+            var y = document.getElementById('tnum').value;
+
+            var z = parseInt(w) + parseInt(x) + parseInt(y);
+
+
+            document.getElementById('result').innerHTML = z;
+
+        }       
     </script>
 
 
